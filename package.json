@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "vant": "^2.13.2"
-  }
+	"dependencies": {
+		"uview-ui": "^2.0.37"
+	}
 }
